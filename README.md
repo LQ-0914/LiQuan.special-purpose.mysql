@@ -1,1 +1,0 @@
-# LiQuan.special-purpose.mysql
